@@ -14,6 +14,7 @@ from PyQt5.QtSql import QSqlTableModel, QSqlQuery, QSqlDatabase, QSqlDriver, QSq
 
 
 
+
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
